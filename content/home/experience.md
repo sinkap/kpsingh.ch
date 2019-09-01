@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   location = "Zürich, Switzerland"
   date_start = "2019-05-01"
   date_end = ""
-  description = """
+  description = """Detection and Response
 
-  * Security, Detection and Response
+  * Endpoints and Production Security Monitoring
   * Kernel Runtime Security Instrumentation"""
 
 [[experience]]
