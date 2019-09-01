@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   location = "Zürich, Switzerland"
   date_start = "2016-01-04"
   date_end = "2019-04-30"
-  description = """
+  description = """Software Engineer working on:
 
   * SRE for Google Apps
   * Production Platforms (Google-wide)
@@ -52,8 +52,8 @@ date_format = "Jan 2006"
   date_end = "2016-01-01"
   description = """Kernel Engineer in the Power team and worked on:
 
-  * Intelligent Power Allocator
-  * Energy Aware Scheduler"""
+* Intelligent Power Allocator
+* Energy Aware Scheduler"""
 
 [[experience]]
   title = "Infrastructure Developer"
@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   location = "Bangalore, India"
   date_start = "2013-06-30"
   date_end = "2011-06-27"
-  description = """
+  description = """Unix Engineering Team working on:
 
   * Mathematical Algorithms on Parallel Platforms
   * Operating Systems Engineering (Linux Kernel)
