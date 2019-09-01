@@ -12,13 +12,16 @@ superuser: true
 # Role/position
 role: Free Software Hacker, Engineer, Father (he/him)
 
+pgp: <code>FBCD A855 8E9D EE78 2BB3  AA1F BCED 61E0 4BEF 2AB1</code>
+
 # Organizations/Affiliations
 organizations:
 - name: Google
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: .
+bio:
+
 
 interests:
 - Security
@@ -31,7 +34,6 @@ education:
   - course: BE, Electronics & Electrical Communication
     institution: PEC University of Technology
     year: 2011
-    gpa: 9.68/10
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -40,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:me@kpsingh.ch'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/__kpsingh
