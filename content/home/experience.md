@@ -17,13 +17,23 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Staff Software Engineer"
+  company = "Google"
+  company_url = ""
+  location = "Zürich, Switzerland"
+  date_start = "2019-05-01"
+  date_end = ""
+  description = """TL for Detections on Linux Endpoints and author of the mainline eBPF LSM"""
+
 [[experience]]
   title = "Senior Software Engineer"
   company = "Google"
   company_url = ""
   location = "Zürich, Switzerland"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2020-10-22"
   description = """Detection and Response
 
   * Endpoints and Production Security Monitoring
